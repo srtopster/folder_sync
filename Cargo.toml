@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 hashbrown = "0.13.2"
 colored = "2.0.0"
+inquire = "0.7.5"
